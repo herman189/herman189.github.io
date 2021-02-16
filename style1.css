@@ -119,8 +119,8 @@ body, html{
 
 .pimg15{
   background-image:url('./image/but16.jpg');
-  /*min-height:400px; */
-  min-height:100%;
+  min-height:400px; 
+ /* min-height:100%;*/
 }
 
 .jumpTop{
