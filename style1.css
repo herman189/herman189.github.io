@@ -120,7 +120,6 @@ body, html{
 .pimg15{
   background-image:url('./image/but16.jpg');
   /*min-height:400px; */
-  background-repeat: no repeat;
   min-height:100%;
 }
 
